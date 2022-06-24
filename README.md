@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ymoh72
-- 👀 I’m interested in automation and building user solutions
+- 👀 I’m interested in data scienc, machine learning, and AI
 - 🌱 I’m currently learning Python 🐍
 - 📫 How to reach me email mohmandyasser@gmail.com
 
