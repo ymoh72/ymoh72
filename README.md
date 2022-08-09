@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ymoh72
-- 👀 I’m interested in data science, machine learning, and AI
-- 🌱 I’m currently learning Python 🐍
+- 👀 I’m interested in data analytics and Machine Learning
+- 🌱 I’m currently learning SQL, Tableau, and Python 🐍
 - 📫 How to reach me email mohmandyasser@gmail.com
 
 
